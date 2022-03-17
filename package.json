@@ -1,7 +1,7 @@
 {
   "name": "movies-viewer",
   "version": "0.1.0",
-  "homepage": "http://jean00.github.io/MoviesViewer",
+  "homepage": "https://jean00.github.io/MoviesViewer",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
