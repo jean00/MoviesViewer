@@ -36,7 +36,7 @@ const App = () => {
           <Toolbar>
             <Typography className={classes.Title} variant="h4">
               {" "}
-              MovieViewer{" "}
+              MoviesViewer{" "}
             </Typography>
             <TextField
               label="Search a movie"
