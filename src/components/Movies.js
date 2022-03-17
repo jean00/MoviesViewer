@@ -11,7 +11,7 @@ const Movies = ({ movies: { imdbID, Year, Poster, Title, Type } }) => {
         className={classes.CardMedia}
         component="img"
         image={Poster !== "N/A" ? Poster : "https://via.placeholder.com/500"}
-        alt="https://via.placeholder.com/150"
+        alt={Poster}
       />
       <CardContent className={classes.CardContent}>
         <Typography gutterBottom variant="h5" component="h2">
