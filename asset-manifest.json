@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/MoviesViewer/static/js/main.76109863.js",
+    "index.html": "/MoviesViewer/index.html",
+    "main.76109863.js.map": "/MoviesViewer/static/js/main.76109863.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.76109863.js"
+  ]
+}
